@@ -15,6 +15,9 @@ I implemented a caching mechanism where:
  • For each new token, it only computes the K/V for that token.
  • Previous tokens just pull from the cache, no recompute needed.
 
+ ![attention_cache](https://github.com/user-attachments/assets/08e95b8c-9616-4095-8c48-f4d750fe385f)
+
+
 ## 📊 𝗥𝗲𝘀𝘂𝗹𝘁𝘀:
 Tested on a Colab T4 GPU using different output lengths:
 
