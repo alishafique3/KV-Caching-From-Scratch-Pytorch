@@ -29,3 +29,14 @@ For shorter outputs, KV caching doesn't always help.
 In my tests, device communication overhead on CUDA sometimes outweighed the gains for small models like GPT-2.
 
 Shoutout to Sebastian Raschka, PhD for his amazing blog post on KV Caching
+
+## References
+
+1. [Attention in Transformers, Step-by-Step | Deep Learning Chapter 6](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+2. [Understanding and Coding the KV Cache in LLMs from Scratch](https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms)
+3. [Mastering Tensor Dimensions in Transformers](https://huggingface.co/blog/not-lain/tensor-dims)
+4. [The Illustrated Transformer – Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+5. [Transformers KV Caching Explained | João Lages](https://medium.com/@joaolages/kv-caching-explained-276520203249)
+6. [LLM Inference Series: 3. KV Caching Explained | Pierre Lienhart](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)
+7. [tanishqkumar/beyond-nanogpt: Minimal, annotated implementations](https://github.com/tanishqkumar/beyond-nanogpt)
+
