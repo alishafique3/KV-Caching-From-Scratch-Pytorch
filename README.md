@@ -28,7 +28,7 @@ Tested on a Colab T4 GPU for GPT-2 using different output lengths:
 For shorter outputs, KV caching doesn't always help.
 In my tests, device communication overhead on CUDA sometimes outweighed the gains for small models like GPT-2.
 
-Shoutout to Sebastian Raschka, PhD for his amazing blog post on KV Caching
+Shoutout to Sebastian Raschka, PhD for his amazing [blog](https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms) post on KV Caching
 
 ## References
 
