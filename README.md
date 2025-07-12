@@ -17,9 +17,6 @@ I implemented a caching mechanism where:
 
 ## 📊 𝗥𝗲𝘀𝘂𝗹𝘁𝘀:
 Tested on a Colab T4 GPU using different output lengths:
-441 → ~2.7×
-761 → ~4.6×
-1001 → ~6.7×
 
 ![KV Cache](https://github.com/user-attachments/assets/33c5ce39-fd43-4c74-9f01-daac0afa13a0)
 
