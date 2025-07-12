@@ -19,7 +19,7 @@ I implemented a caching mechanism where:
 
 
 ## 📊 𝗥𝗲𝘀𝘂𝗹𝘁𝘀:
-Tested on a Colab T4 GPU using different output lengths:
+Tested on a Colab T4 GPU for GPT-2 using different output lengths:
 
 ![KV Cache](https://github.com/user-attachments/assets/33c5ce39-fd43-4c74-9f01-daac0afa13a0)
 
